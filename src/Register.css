@@ -1,0 +1,16 @@
+.errorMessage {
+  font-size: 10px;
+  letter-spacing: 0.05rem;
+  padding-left: 0.25rem;
+  background-color: red;
+}
+.container {
+  height: 90vh;
+}
+.regFormContainer {
+  width: 24rem;
+}
+.regFormLegend {
+  width: 12rem;
+  background: #dee2e6;
+}

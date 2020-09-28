@@ -1,6 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Tutorial todo list - web application
+## The tutorial(video) was made by bezoker on github
 
 This was a project I did as a guide to help me better understand some React concepts.
 
